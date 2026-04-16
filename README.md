@@ -1,6 +1,6 @@
 # Network Performance Monitor
 
-A Python-based automated tool that measures **latency**, **jitter**, **packet loss**, and **DNS resolution time** across multiple network targets, validates results against configurable thresholds, and reports pass/fail status — all running inside a CI/CD pipeline on Linux.
+A Python-based automated tool that measures **latency**, **jitter**, **packet loss**, and **DNS resolution time** across multiple network targets, validates results against configurable thresholds, and reports pass/fail status — all running inside a **CI/CD pipeline on Linux**.
 
 Built as a personal learning project to practice:
 - Automated testing and validation frameworks (pytest)
