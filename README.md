@@ -45,7 +45,7 @@ network-monitor/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/network-monitor.git
+git clone https://github.com/phungjulius/network-monitor.git
 cd network-monitor
 
 # Install dependencies
